@@ -51,7 +51,7 @@ class ControlFlow {
     fun test_when_expression() {
 
         str1 = str2
-        
+
         when(str1.equals(str2)) {
             true -> println("equal")
             false -> println("not equal")
