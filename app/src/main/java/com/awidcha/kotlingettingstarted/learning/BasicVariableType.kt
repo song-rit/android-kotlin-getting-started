@@ -5,6 +5,9 @@ package com.awidcha.kotlingettingstarted.learning
  */
 class BasicVariableType {
 
+    // var is general variable
+    // val is constant variable
+
 //    normal type
     var varInt : Int = 1
     var varDouble : Double = 3.14
